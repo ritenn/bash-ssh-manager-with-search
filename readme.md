@@ -36,7 +36,7 @@ test@127.0.0.1 Dev
 
 Done! You can now just type "s" in terminal and ssh manager will pop up.
 
-## Usaage & Keys
+## Usage & Keys
 
 * "space" - exit
 * "[" - cursor up
